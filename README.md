@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Kpiiale
-- 👀 I’m interested in cibersecurity and technology in general
-- 🌱 I’m currently learning Java OOP and phyton
+- Hi, I’m @Kpiiale
+- I’m interested in cibersecurity and technology in general
+- I’m currently learning Java OOP and phyton
 
 <!---
 Kpiiale/Kpiiale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
